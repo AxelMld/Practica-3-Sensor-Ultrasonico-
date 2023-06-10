@@ -11,6 +11,7 @@
 woki : https://wokwi.com
 
 #### Dashboard de pagina a utilizar 
+![](https://github.com/AxelMld/Practica-3-Sensor-Ultrasonico-/blob/main/dash.png?raw=true)
 
 ## Pasos a Seguir 
 
@@ -23,7 +24,7 @@ woki : https://wokwi.com
 
 ## Conexion 
 
-![]()
+![](https://github.com/AxelMld/Practica-3-Sensor-Ultrasonico-/blob/main/conexion.png?raw=true)
 
 ## Librerias 
 
@@ -92,8 +93,10 @@ void loop()
 
 
 # Resultados
-![]()
+![](https://github.com/AxelMld/Practica-3-Sensor-Ultrasonico-/blob/main/resulrtado%201.png?raw=true)
 
+
+![](https://github.com/AxelMld/Practica-3-Sensor-Ultrasonico-/blob/main/resultado%202.png?raw=true)
 
 
 # Creditos 
